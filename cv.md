@@ -23,7 +23,7 @@ Had experience with:
 ## Languages
 - English B1-B2
 - Ukrainian
-- RUssian
+- Russian
 
 ## Contact
 | Email               | Discord    |
