@@ -19,3 +19,8 @@ Had experience with:
 - Python
 - Django
 - SQL
+
+## Languages
+- English B1-B2
+- Ukrainian
+- RUssian
