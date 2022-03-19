@@ -8,9 +8,11 @@ Aspiring web-developer.
 | jseldardw@gmail.com | pdlmn#0030 | https://github.com/pdlmn |
 
 ## About me
-Hello! My name is Eldar and I am 26 years old. I started out programming with IT Step Python Development course and fell in love with developing stuff. My current goal is to become junior front-end developer, and for this I am using various free recourses and community-driven curriculums like The Odin Project and The Rolling Scopes School. I am self-disciplined and dedicated enough to learning things on my own, and I love learning new things as well!
+Hello! My name is Eldar and I am 26 years old. I started out programming with IT Step Python Development course and fell in love with developing stuff. I enjoy building web apps and learning new things related to programming.
 
-Unfortunately currently I am with my family running from the Russian invasion of Ukraine. I am still learning to programm when I have an opportunity.
+My current goal is to become junior front-end developer, and for this I am using various free recourses and community-driven curriculums like The Odin Project and The Rolling Scopes School. I am self-disciplined and dedicated enough to learning things on my own.
+
+Unfortunately currently I am with my family running from the Russian invasion of Ukraine, so my location isn't definitive. I am still learning to programm when I have an opportunity!
 
 ## Skills
 Solid understanding of:
