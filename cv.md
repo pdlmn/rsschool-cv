@@ -2,8 +2,9 @@
 Aspiring web-developer. 
 
 ## Contact
+
 | Email               | Discord    |
-| ---                 | ---        |
+| --- | --- |
 | jseldardw@gmail.com | pdlmn#0030 |
 
 ## About me
