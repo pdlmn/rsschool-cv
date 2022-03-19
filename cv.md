@@ -29,3 +29,15 @@ Had experience with:
 - English B1-B2
 - Ukrainian
 - Russian
+
+## Code example
+My solution of [this kata](https://www.codewars.com/kata/52efefcbcdf57161d4000091):
+```javascript
+function count (string) {  
+  if (!string) return {}
+  return string.split("").reduce((acc, cur) => {
+    acc[cur] ? acc[cur]++ : acc[cur] = 1
+    return acc
+  }, {})
+}
+```
