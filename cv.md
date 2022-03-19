@@ -16,9 +16,10 @@ Solid understanding of:
 - HTML
 - CSS
 - JavaScript
-- Git
+- git
 
 Had experience with:
+- webpack
 - React
 - jQuery
 - Python
