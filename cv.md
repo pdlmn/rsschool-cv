@@ -14,6 +14,8 @@ My current goal is to become junior front-end developer, and for this I am using
 
 Unfortunately currently I am with my family running from the Russian invasion of Ukraine, so my location isn't definitive. I am still learning to programm when I have an opportunity!
 
+I am using Linux as my OS and Neovim is my editor of choice.
+
 ## Skills
 Solid understanding of:
 - HTML
