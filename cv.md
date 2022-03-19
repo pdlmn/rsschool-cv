@@ -24,3 +24,8 @@ Had experience with:
 - English B1-B2
 - Ukrainian
 - RUssian
+
+## Contact
+| Email               | Discord    |
+| --                  | --         |
+| jseldardw@gmail.com | pdlmn#0030 |
