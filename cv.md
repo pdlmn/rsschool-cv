@@ -6,4 +6,16 @@ Hello! My name is Eldar and I am 26 years old. I started out programming with IT
 
 Unfortunately currently I am with my family running from the Russian invasion of Ukraine. I am still learning to programm when I have an opportunity.
 
-## 
+## Skills
+Solid understanding of:
+- HTML
+- CSS
+- JavaScript
+- Git
+
+Had experience with:
+- React
+- jQuery
+- Python
+- Django
+- SQL
