@@ -14,6 +14,11 @@ My current goal is to become junior front-end developer, and for this I am using
 
 Unfortunately currently I am with my family running from the Russian invasion of Ukraine, so my location isn't definitive. I am still learning to programm when I have an opportunity!
 
+## Education
+- STEP IT Academy Python Development 25.03.2021 - 25.09.2021
+- The Odin Project 30.09.2021 - Ongoing
+- RS School JavaScript/Front-end 13.03.2022 - Ongoing
+
 ## Skills
 Solid understanding of:
 - HTML
