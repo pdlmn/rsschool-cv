@@ -49,3 +49,13 @@ function count (string) {
   }, {})
 }
 ```
+
+## Projects
+![](./battleship.png)
+[Battleship](https://github.com/pdlmn/battleship) is the classical game, it features relatively smart AI that is able to defeat the player.
+
+![](./todo.png)
+[Todo app](https://pdlmn.github.io/todo-list/) that features tags, priorities, projects and due dates. Todo items are sorted according to their properties. 
+
+![](./quizz.png)
+[Quizz app](https://pdlmn.github.io/quizzimo/) that tests the knowledge of the player in arbitrary scientific disciplines.
